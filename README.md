@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gousemohiddin44
-- 👀 I’m interested in Js and c#
-- 🌱 I’m currently learning C# and node.js
+- 👀 I’m interested in Js and React
+- 🌱 I’m currently learning NextJs, TypeScript and node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
